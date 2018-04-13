@@ -8,13 +8,13 @@
 # FIXME #763: List types, and descriptions
 meza_auth_type: "anon-read"
 
-blender_landing_page_title: Test of Meza Wikis
+blender_landing_page_title: Enterprise MediaWiki
 
 # Email senders
 # Refs:
 #   https://www.mediawiki.org/wiki/Manual:$wgPasswordSender
 #   https://www.mediawiki.org/wiki/Manual:$wgEmergencyContact
-wgPasswordSender: "admin@example.com"
+wgPasswordSender: "no-reply@enterprisemediawiki.org"
 # wgEmergencyContact = "another.email@example.com" # defaults to wgPassword Sender
 
 # blender_header_wiki_title: Top row wikis
