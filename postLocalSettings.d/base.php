@@ -1,0 +1,4 @@
+<?php
+
+$wgGroupPermissions['*']['createaccount'] = false
+;
